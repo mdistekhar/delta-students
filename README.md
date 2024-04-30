@@ -1,2 +1,2 @@
 # delta-students
-These is a demo  for Git $ GitHub
+These is a demo  for Git $ GitHub class.
